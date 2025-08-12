@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Angela</h1>
 
-- 📫 Puedes encontrarme en mis redes sociales adjuntas en este sitio **xangie.urrutiax@gmail.com**
-- 👩‍💻 Actualmente mi trabajo en desarrollo web es independiente y tengo una agencia de marketing digital.
+- 📫 Puedes encontrarme en mis redes sociales adjuntas en este sitio **ang.urrutia.alv@gmail.com**
+- 👩‍💻 Actualmente mi trabajo en desarrollo web es independiente y soy parte de una agencia en marketing digital.
 - 🌱 Estoy siempre aprendiendo algo nuevo.
 - 🕹️ Me gusta la programación, los videojuegos, crear ilustraciones, tomar café y entrenar.
 
